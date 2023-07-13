@@ -1,17 +1,11 @@
-
 {
-    "No": 1,
-    "VehicleNumber": "1234",
-    "VehicleLicensePlate": "ABC123",
-    "TrailerNumber": "1",
-    "TrailerLicensePlate": "XYZ456",
-    "Pump": true,
-    "Meter": true,
-    "Discharge": "1000",
-    "ShiftTime": "8",
-    "Location": "Chennai",
-    "VehicleCompartmentDetailsList": [
-      { "CompartmentNumber": 1, "Capacity": 2000, "MinVolume": 1000 },
-      { "CompartmentNumber": 2, "Capacity": 1500, "MinVolume": 800 }
-    ]
- }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
