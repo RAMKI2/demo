@@ -1,5 +1,5 @@
 [
-  {
+  {"Vehicle" : {
     "No": 1,
     "VehicleNumber": "1234",
     "VehicleLicensePlate": "ABC123",
@@ -30,5 +30,6 @@
       { "CompartmentNumber": 1, "Capacity": 1800, "MinVolume": 900 },
       { "CompartmentNumber": 2, "Capacity": 1200, "MinVolume": 700 }
     ]
+  }
   }
 ]
