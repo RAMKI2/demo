@@ -1,5 +1,6 @@
-[
-  {"Vehicle" : {
+
+  "Vehicle" :
+{
     "No": 1,
     "VehicleNumber": "1234",
     "VehicleLicensePlate": "ABC123",
@@ -14,22 +15,4 @@
       { "CompartmentNumber": 1, "Capacity": 2000, "MinVolume": 1000 },
       { "CompartmentNumber": 2, "Capacity": 1500, "MinVolume": 800 }
     ]
-  },
-  {
-    "No": 2,
-    "VehicleNumber": "5678",
-    "VehicleLicensePlate": "DEF456",
-    "TrailerNumber": "2",
-    "TrailerLicensePlate": "PQR789",
-    "Pump": false,
-    "Meter": true,
-    "Discharge": "2000",
-    "ShiftTime": "10",
-    "Location": "Mumbai",
-    "VehicleCompartmentDetailsList": [
-      { "CompartmentNumber": 1, "Capacity": 1800, "MinVolume": 900 },
-      { "CompartmentNumber": 2, "Capacity": 1200, "MinVolume": 700 }
-    ]
-  }
-  }
-]
+ }
